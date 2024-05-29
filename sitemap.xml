@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kairossun.fortunacat.top/blogs/iPhone%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/blogs/iPhone%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/</loc>
     
     <lastmod>2024-05-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/timeline/index.html</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/timeline/index.html</loc>
     
     <lastmod>2024-05-19</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/about/index.html</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/about/index.html</loc>
     
     <lastmod>2024-05-19</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/categories/index.html</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/categories/index.html</loc>
     
     <lastmod>2024-05-16</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/messageboard/index.html</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/messageboard/index.html</loc>
     
     <lastmod>2024-05-16</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/tags/index.html</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/tags/index.html</loc>
     
     <lastmod>2024-05-15</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/blogs/hello-world/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/blogs/hello-world/</loc>
     
     <lastmod>2024-04-17</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>https://kairossun.fortunacat.top/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -74,35 +74,35 @@
 
   
   <url>
-    <loc>https://kairossun.fortunacat.top/tags/i/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/tags/i/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/tags/iP/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/tags/iP/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/tags/iPhone/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/tags/iPhone/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/tags/iPhone%E8%87%AA%E5%8A%A8ji/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/tags/iPhone%E8%87%AA%E5%8A%A8ji/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/tags/iPhone%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/tags/iPhone%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -111,14 +111,14 @@
 
   
   <url>
-    <loc>https://kairossun.fortunacat.top/categories/she/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/categories/she/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kairossun.fortunacat.top/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://kairossun.fortunacat.top/blogs/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
